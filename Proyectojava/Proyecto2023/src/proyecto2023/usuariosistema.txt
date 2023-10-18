@@ -1,2 +1,5 @@
-Edgar Romario|Chajon Chavez|M|8 julio|1994
-Edgar Romario|Chajon Chavez|M|8 julio|1994|qh_wXSvLP0^Re!-K
+Edga Romario |Chajon Chavez|M|8 Julio|1994|5554|prueba@gmail.com|Guatemala|Guatemala|Coban|vista hermosa|Administrador de Votaciones|0vS_*AjKH&#INu6g|Activo
+Elisa|Perez|F|14 Septiembre |1986|555456|prueba2@gmail.com|Guatemala|Peten|Flores|Vista hemrosa|Registrador de Votantes|CambioPrueba|Activo
+Angela cambio|Cambio Perez|F|25 enero|1965|5555|pruebaregistro@gmail.com|Guatemala|Guatemala|xela|vista hermosa|Auditor|Abc12345|Activo
+Marielos hola|hola chitay|M|4 octubre |1955|556654|pruebaadmin@gmail.com|Guatemala|Jutiapa|Monja|Vista Hermosa|Registrador de Votantes|holahola2|Activo
+Francisco|Gutierrez|M|4 octubre |1950|8545|Franco@gmail.com|Gutemala|San Marcos|San Pedro|Vista Hermosa|Administrador de Votaciones|W8@R(vwn)o4N1F+k|Activo

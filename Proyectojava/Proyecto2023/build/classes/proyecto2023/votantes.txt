@@ -1,0 +1,6 @@
+Edgar Romario|Chajon Chavez|M|8 agosto |1994|5875656|pruebavotante123@gmail.com|prueba cambio pais|pureba cambio depar|prueba cambio muni|pureba cambio aldea |Votante|Abc123456|Activo
+Felipe pedro|perez perez|M|8 agosto|1994|5855454|pruebaestado@gmail.com|Guatemala|San Benito |Benito|benito 3 avenida |Votante|9$6_6avoHDGxgt6#|Activo
+Valentina angela|hola hola |F|14 septiembre|1992|854565|pruebacambio@gmail.com|Peru|Lima|lima|hola hola|Votante|holaprueba|Inactivo
+jose|lopez|m|27 noviembre|1896|555|prueba|guatemala|d||d|Votante|JW!C%PAraYcI_l78|Activo
+Heidi |lopez|f|31 diciembre|2001|5556|prueba10@gmail.com|uruguay|buenos aires|central|hola|Votante|pruebacambio|Activo
+prueba mas|hola hola|f|01|1995|5554|hola@gmail.com|guatemala|guatemala|guatemala|vista hermosa|Votante|hola2023|Activo
